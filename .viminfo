@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1585231308,,"wq"
+|2,0,1585234859,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,36 +25,50 @@
 # Registers:
 
 # File marks:
-'0  23  0  /tmp/crontab.wJ3btd/crontab
-|4,48,23,0,1585231308,"/tmp/crontab.wJ3btd/crontab"
-'1  24  37  /tmp/crontab.BtUECb/crontab
-|4,49,24,37,1585230874,"/tmp/crontab.BtUECb/crontab"
-'2  1  31  ~/covid-script.sh
-|4,50,1,31,1585230667,"~/covid-script.sh"
-'3  1  0  ~/script/covid-script.sh
-|4,51,1,0,1585230551,"~/script/covid-script.sh"
-'4  24  9  /tmp/crontab.mtzaLc/crontab
-|4,52,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
-'5  51  14  ~/covid-19-data-scraper.py
-|4,53,51,14,1585229737,"~/covid-19-data-scraper.py"
-'6  10  18  ~/covid-19-data-scraper.py
-|4,54,10,18,1585229429,"~/covid-19-data-scraper.py"
+'0  1  0  ~/add.py
+|4,48,1,0,1585234859,"~/add.py"
+'1  23  0  /tmp/crontab.wJ3btd/crontab
+|4,49,23,0,1585231308,"/tmp/crontab.wJ3btd/crontab"
+'2  24  37  /tmp/crontab.BtUECb/crontab
+|4,50,24,37,1585230874,"/tmp/crontab.BtUECb/crontab"
+'3  1  31  ~/covid-script.sh
+|4,51,1,31,1585230667,"~/covid-script.sh"
+'4  1  0  ~/script/covid-script.sh
+|4,52,1,0,1585230551,"~/script/covid-script.sh"
+'5  24  9  /tmp/crontab.mtzaLc/crontab
+|4,53,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
+'6  51  14  ~/covid-19-data-scraper.py
+|4,54,51,14,1585229737,"~/covid-19-data-scraper.py"
 '7  10  18  ~/covid-19-data-scraper.py
 |4,55,10,18,1585229429,"~/covid-19-data-scraper.py"
 '8  10  18  ~/covid-19-data-scraper.py
-|4,56,10,18,1585229419,"~/covid-19-data-scraper.py"
+|4,56,10,18,1585229429,"~/covid-19-data-scraper.py"
 '9  10  18  ~/covid-19-data-scraper.py
 |4,57,10,18,1585229419,"~/covid-19-data-scraper.py"
 
 # Jumplist (newest first):
+-'  1  0  ~/add.py
+|4,39,1,0,1585234859,"~/add.py"
 -'  23  0  /tmp/crontab.wJ3btd/crontab
 |4,39,23,0,1585231308,"/tmp/crontab.wJ3btd/crontab"
+-'  23  0  /tmp/crontab.wJ3btd/crontab
+|4,39,23,0,1585231308,"/tmp/crontab.wJ3btd/crontab"
+-'  1  0  /tmp/crontab.wJ3btd/crontab
+|4,39,1,0,1585231246,"/tmp/crontab.wJ3btd/crontab"
 -'  1  0  /tmp/crontab.wJ3btd/crontab
 |4,39,1,0,1585231246,"/tmp/crontab.wJ3btd/crontab"
 -'  24  37  /tmp/crontab.BtUECb/crontab
 |4,39,24,37,1585230874,"/tmp/crontab.BtUECb/crontab"
 -'  24  37  /tmp/crontab.BtUECb/crontab
 |4,39,24,37,1585230874,"/tmp/crontab.BtUECb/crontab"
+-'  24  37  /tmp/crontab.BtUECb/crontab
+|4,39,24,37,1585230874,"/tmp/crontab.BtUECb/crontab"
+-'  24  37  /tmp/crontab.BtUECb/crontab
+|4,39,24,37,1585230874,"/tmp/crontab.BtUECb/crontab"
+-'  1  0  /tmp/crontab.BtUECb/crontab
+|4,39,1,0,1585230750,"/tmp/crontab.BtUECb/crontab"
+-'  1  0  /tmp/crontab.BtUECb/crontab
+|4,39,1,0,1585230750,"/tmp/crontab.BtUECb/crontab"
 -'  1  0  /tmp/crontab.BtUECb/crontab
 |4,39,1,0,1585230750,"/tmp/crontab.BtUECb/crontab"
 -'  1  0  /tmp/crontab.BtUECb/crontab
@@ -67,6 +81,30 @@
 |4,39,1,31,1585230667,"~/covid-script.sh"
 -'  1  31  ~/covid-script.sh
 |4,39,1,31,1585230667,"~/covid-script.sh"
+-'  1  31  ~/covid-script.sh
+|4,39,1,31,1585230667,"~/covid-script.sh"
+-'  1  31  ~/covid-script.sh
+|4,39,1,31,1585230667,"~/covid-script.sh"
+-'  1  31  ~/covid-script.sh
+|4,39,1,31,1585230667,"~/covid-script.sh"
+-'  1  31  ~/covid-script.sh
+|4,39,1,31,1585230667,"~/covid-script.sh"
+-'  1  0  ~/script/covid-script.sh
+|4,39,1,0,1585230551,"~/script/covid-script.sh"
+-'  1  0  ~/script/covid-script.sh
+|4,39,1,0,1585230551,"~/script/covid-script.sh"
+-'  1  0  ~/script/covid-script.sh
+|4,39,1,0,1585230551,"~/script/covid-script.sh"
+-'  1  0  ~/script/covid-script.sh
+|4,39,1,0,1585230551,"~/script/covid-script.sh"
+-'  1  0  ~/script/covid-script.sh
+|4,39,1,0,1585230551,"~/script/covid-script.sh"
+-'  1  0  ~/script/covid-script.sh
+|4,39,1,0,1585230551,"~/script/covid-script.sh"
+-'  1  0  ~/script/covid-script.sh
+|4,39,1,0,1585230551,"~/script/covid-script.sh"
+-'  1  0  ~/script/covid-script.sh
+|4,39,1,0,1585230551,"~/script/covid-script.sh"
 -'  1  0  ~/script/covid-script.sh
 |4,39,1,0,1585230551,"~/script/covid-script.sh"
 -'  1  0  ~/script/covid-script.sh
@@ -115,6 +153,38 @@
 |4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
 -'  24  9  /tmp/crontab.mtzaLc/crontab
 |4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
+-'  24  9  /tmp/crontab.mtzaLc/crontab
+|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
+-'  24  9  /tmp/crontab.mtzaLc/crontab
+|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
+-'  24  9  /tmp/crontab.mtzaLc/crontab
+|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
+-'  24  9  /tmp/crontab.mtzaLc/crontab
+|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
+-'  24  9  /tmp/crontab.mtzaLc/crontab
+|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
+-'  24  9  /tmp/crontab.mtzaLc/crontab
+|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
+-'  24  9  /tmp/crontab.mtzaLc/crontab
+|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
+-'  24  9  /tmp/crontab.mtzaLc/crontab
+|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
+-'  24  9  /tmp/crontab.mtzaLc/crontab
+|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
+-'  24  9  /tmp/crontab.mtzaLc/crontab
+|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
+-'  24  9  /tmp/crontab.mtzaLc/crontab
+|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
+-'  24  9  /tmp/crontab.mtzaLc/crontab
+|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
+-'  24  9  /tmp/crontab.mtzaLc/crontab
+|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
+-'  24  9  /tmp/crontab.mtzaLc/crontab
+|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
+-'  24  9  /tmp/crontab.mtzaLc/crontab
+|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
+-'  24  9  /tmp/crontab.mtzaLc/crontab
+|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
 -'  1  0  /tmp/crontab.mtzaLc/crontab
 |4,39,1,0,1585230084,"/tmp/crontab.mtzaLc/crontab"
 -'  1  0  /tmp/crontab.mtzaLc/crontab
@@ -147,108 +217,42 @@
 |4,39,1,0,1585230084,"/tmp/crontab.mtzaLc/crontab"
 -'  1  0  /tmp/crontab.mtzaLc/crontab
 |4,39,1,0,1585230084,"/tmp/crontab.mtzaLc/crontab"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  51  14  ~/covid-19-data-scraper.py
-|4,39,51,14,1585229737,"~/covid-19-data-scraper.py"
--'  10  18  ~/covid-19-data-scraper.py
-|4,39,10,18,1585229689,"~/covid-19-data-scraper.py"
--'  10  18  ~/covid-19-data-scraper.py
-|4,39,10,18,1585229689,"~/covid-19-data-scraper.py"
--'  10  18  ~/covid-19-data-scraper.py
-|4,39,10,18,1585229689,"~/covid-19-data-scraper.py"
--'  10  18  ~/covid-19-data-scraper.py
-|4,39,10,18,1585229689,"~/covid-19-data-scraper.py"
--'  10  18  ~/covid-19-data-scraper.py
-|4,39,10,18,1585229689,"~/covid-19-data-scraper.py"
--'  10  18  ~/covid-19-data-scraper.py
-|4,39,10,18,1585229689,"~/covid-19-data-scraper.py"
--'  10  18  ~/covid-19-data-scraper.py
-|4,39,10,18,1585229689,"~/covid-19-data-scraper.py"
--'  10  18  ~/covid-19-data-scraper.py
-|4,39,10,18,1585229689,"~/covid-19-data-scraper.py"
--'  10  18  ~/covid-19-data-scraper.py
-|4,39,10,18,1585229689,"~/covid-19-data-scraper.py"
--'  10  18  ~/covid-19-data-scraper.py
-|4,39,10,18,1585229689,"~/covid-19-data-scraper.py"
--'  10  18  ~/covid-19-data-scraper.py
-|4,39,10,18,1585229689,"~/covid-19-data-scraper.py"
--'  10  18  ~/covid-19-data-scraper.py
-|4,39,10,18,1585229689,"~/covid-19-data-scraper.py"
--'  10  18  ~/covid-19-data-scraper.py
-|4,39,10,18,1585229689,"~/covid-19-data-scraper.py"
--'  10  18  ~/covid-19-data-scraper.py
-|4,39,10,18,1585229689,"~/covid-19-data-scraper.py"
--'  10  18  ~/covid-19-data-scraper.py
-|4,39,10,18,1585229689,"~/covid-19-data-scraper.py"
--'  10  18  ~/covid-19-data-scraper.py
-|4,39,10,18,1585229689,"~/covid-19-data-scraper.py"
--'  10  18  ~/covid-19-data-scraper.py
-|4,39,10,18,1585229689,"~/covid-19-data-scraper.py"
--'  10  18  ~/covid-19-data-scraper.py
-|4,39,10,18,1585229689,"~/covid-19-data-scraper.py"
+-'  1  0  /tmp/crontab.mtzaLc/crontab
+|4,39,1,0,1585230084,"/tmp/crontab.mtzaLc/crontab"
+-'  1  0  /tmp/crontab.mtzaLc/crontab
+|4,39,1,0,1585230084,"/tmp/crontab.mtzaLc/crontab"
+-'  1  0  /tmp/crontab.mtzaLc/crontab
+|4,39,1,0,1585230084,"/tmp/crontab.mtzaLc/crontab"
+-'  1  0  /tmp/crontab.mtzaLc/crontab
+|4,39,1,0,1585230084,"/tmp/crontab.mtzaLc/crontab"
+-'  1  0  /tmp/crontab.mtzaLc/crontab
+|4,39,1,0,1585230084,"/tmp/crontab.mtzaLc/crontab"
+-'  1  0  /tmp/crontab.mtzaLc/crontab
+|4,39,1,0,1585230084,"/tmp/crontab.mtzaLc/crontab"
+-'  1  0  /tmp/crontab.mtzaLc/crontab
+|4,39,1,0,1585230084,"/tmp/crontab.mtzaLc/crontab"
+-'  1  0  /tmp/crontab.mtzaLc/crontab
+|4,39,1,0,1585230084,"/tmp/crontab.mtzaLc/crontab"
+-'  1  0  /tmp/crontab.mtzaLc/crontab
+|4,39,1,0,1585230084,"/tmp/crontab.mtzaLc/crontab"
+-'  1  0  /tmp/crontab.mtzaLc/crontab
+|4,39,1,0,1585230084,"/tmp/crontab.mtzaLc/crontab"
+-'  1  0  /tmp/crontab.mtzaLc/crontab
+|4,39,1,0,1585230084,"/tmp/crontab.mtzaLc/crontab"
+-'  1  0  /tmp/crontab.mtzaLc/crontab
+|4,39,1,0,1585230084,"/tmp/crontab.mtzaLc/crontab"
+-'  1  0  /tmp/crontab.mtzaLc/crontab
+|4,39,1,0,1585230084,"/tmp/crontab.mtzaLc/crontab"
+-'  1  0  /tmp/crontab.mtzaLc/crontab
+|4,39,1,0,1585230084,"/tmp/crontab.mtzaLc/crontab"
+-'  1  0  /tmp/crontab.mtzaLc/crontab
+|4,39,1,0,1585230084,"/tmp/crontab.mtzaLc/crontab"
 
 # History of marks within files (newest to oldest):
+
+> ~/add.py
+	*	1585234858	0
+	"	1	0
 
 > /tmp/crontab.wJ3btd/crontab
 	*	1585231304	0
