@@ -62,3 +62,23 @@ sudo apt-get update
 sudo apt-get install awscli
 sysctl
 exit
+git init
+git add .
+git commit -m 'first commit' 
+git ls -a
+ls
+ls -al
+git remote add origin https://github.com/elhackeado/covid19-scraper.git
+git push origin master
+vi add.py
+ls
+git push origin master
+git add .
+git push origin master
+git commit -m 'first commit' 
+git push origin master
+vi covid-script.sh 
+sudo apt-get install github
+sudo apt-get install git
+ls
+git init
