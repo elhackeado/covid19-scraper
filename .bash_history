@@ -82,3 +82,10 @@ sudo apt-get install github
 sudo apt-get install git
 ls
 git init
+ls
+rm add.py
+ls
+git add .
+git commit -m 'commit'
+git push origin master
+date
