@@ -11,8 +11,12 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:u
+|2,0,1585421280,,"u"
 :wq
-|2,0,1585234859,,"wq"
+|2,0,1585421225,,"wq"
+:q
+|2,0,1585415812,,"q"
 
 # Search String History (newest to oldest):
 
@@ -25,230 +29,272 @@
 # Registers:
 
 # File marks:
-'0  2  16  ~/covid-script.sh
-|4,48,2,16,1585235713,"~/covid-script.sh"
-'1  1  0  ~/add.py
-|4,49,1,0,1585234859,"~/add.py"
-'2  23  0  /tmp/crontab.wJ3btd/crontab
-|4,50,23,0,1585231308,"/tmp/crontab.wJ3btd/crontab"
-'3  24  37  /tmp/crontab.BtUECb/crontab
-|4,51,24,37,1585230874,"/tmp/crontab.BtUECb/crontab"
-'4  1  31  ~/covid-script.sh
-|4,52,1,31,1585230667,"~/covid-script.sh"
-'5  1  31  ~/covid-script.sh
-|4,53,1,31,1585230667,"~/covid-script.sh"
-'6  1  0  ~/script/covid-script.sh
-|4,54,1,0,1585230551,"~/script/covid-script.sh"
-'7  24  9  /tmp/crontab.mtzaLc/crontab
-|4,55,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
-'8  51  14  ~/covid-19-data-scraper.py
-|4,56,51,14,1585229737,"~/covid-19-data-scraper.py"
-'9  10  18  ~/covid-19-data-scraper.py
-|4,57,10,18,1585229429,"~/covid-19-data-scraper.py"
+'0  89  0  ~/covid-19-data-scraper.py
+|4,48,89,0,1585421305,"~/covid-19-data-scraper.py"
+'1  88  20  ~/covid-19-data-scraper.py
+|4,49,88,20,1585421225,"~/covid-19-data-scraper.py"
+'2  88  20  ~/covid-19-data-scraper.py
+|4,50,88,20,1585421225,"~/covid-19-data-scraper.py"
+'3  88  20  ~/covid-19-data-scraper.py
+|4,51,88,20,1585415987,"~/covid-19-data-scraper.py"
+'4  88  20  ~/covid-19-data-scraper.py
+|4,52,88,20,1585415987,"~/covid-19-data-scraper.py"
+'5  10  0  ~/new.py
+|4,53,10,0,1585415883,"~/new.py"
+'6  7  40  ~/new.py
+|4,54,7,40,1585415685,"~/new.py"
+'7  7  40  ~/new.py
+|4,55,7,40,1585415685,"~/new.py"
+'8  1  25  ~/demo.xlsx
+|4,56,1,25,1585415581,"~/demo.xlsx"
+'9  1  41  ~/demo.json
+|4,57,1,41,1585415544,"~/demo.json"
 
 # Jumplist (newest first):
--'  2  16  ~/covid-script.sh
-|4,39,2,16,1585235713,"~/covid-script.sh"
--'  1  31  ~/covid-script.sh
-|4,39,1,31,1585235040,"~/covid-script.sh"
--'  1  0  ~/add.py
-|4,39,1,0,1585234859,"~/add.py"
--'  1  0  ~/add.py
-|4,39,1,0,1585234859,"~/add.py"
--'  23  0  /tmp/crontab.wJ3btd/crontab
-|4,39,23,0,1585231308,"/tmp/crontab.wJ3btd/crontab"
--'  23  0  /tmp/crontab.wJ3btd/crontab
-|4,39,23,0,1585231308,"/tmp/crontab.wJ3btd/crontab"
--'  23  0  /tmp/crontab.wJ3btd/crontab
-|4,39,23,0,1585231308,"/tmp/crontab.wJ3btd/crontab"
--'  23  0  /tmp/crontab.wJ3btd/crontab
-|4,39,23,0,1585231308,"/tmp/crontab.wJ3btd/crontab"
--'  1  0  /tmp/crontab.wJ3btd/crontab
-|4,39,1,0,1585231246,"/tmp/crontab.wJ3btd/crontab"
--'  1  0  /tmp/crontab.wJ3btd/crontab
-|4,39,1,0,1585231246,"/tmp/crontab.wJ3btd/crontab"
--'  1  0  /tmp/crontab.wJ3btd/crontab
-|4,39,1,0,1585231246,"/tmp/crontab.wJ3btd/crontab"
--'  1  0  /tmp/crontab.wJ3btd/crontab
-|4,39,1,0,1585231246,"/tmp/crontab.wJ3btd/crontab"
--'  24  37  /tmp/crontab.BtUECb/crontab
-|4,39,24,37,1585230874,"/tmp/crontab.BtUECb/crontab"
--'  24  37  /tmp/crontab.BtUECb/crontab
-|4,39,24,37,1585230874,"/tmp/crontab.BtUECb/crontab"
--'  24  37  /tmp/crontab.BtUECb/crontab
-|4,39,24,37,1585230874,"/tmp/crontab.BtUECb/crontab"
--'  24  37  /tmp/crontab.BtUECb/crontab
-|4,39,24,37,1585230874,"/tmp/crontab.BtUECb/crontab"
--'  24  37  /tmp/crontab.BtUECb/crontab
-|4,39,24,37,1585230874,"/tmp/crontab.BtUECb/crontab"
--'  24  37  /tmp/crontab.BtUECb/crontab
-|4,39,24,37,1585230874,"/tmp/crontab.BtUECb/crontab"
--'  24  37  /tmp/crontab.BtUECb/crontab
-|4,39,24,37,1585230874,"/tmp/crontab.BtUECb/crontab"
--'  24  37  /tmp/crontab.BtUECb/crontab
-|4,39,24,37,1585230874,"/tmp/crontab.BtUECb/crontab"
--'  1  0  /tmp/crontab.BtUECb/crontab
-|4,39,1,0,1585230750,"/tmp/crontab.BtUECb/crontab"
--'  1  0  /tmp/crontab.BtUECb/crontab
-|4,39,1,0,1585230750,"/tmp/crontab.BtUECb/crontab"
--'  1  0  /tmp/crontab.BtUECb/crontab
-|4,39,1,0,1585230750,"/tmp/crontab.BtUECb/crontab"
--'  1  0  /tmp/crontab.BtUECb/crontab
-|4,39,1,0,1585230750,"/tmp/crontab.BtUECb/crontab"
--'  1  0  /tmp/crontab.BtUECb/crontab
-|4,39,1,0,1585230750,"/tmp/crontab.BtUECb/crontab"
--'  1  0  /tmp/crontab.BtUECb/crontab
-|4,39,1,0,1585230750,"/tmp/crontab.BtUECb/crontab"
--'  1  0  /tmp/crontab.BtUECb/crontab
-|4,39,1,0,1585230750,"/tmp/crontab.BtUECb/crontab"
--'  1  0  /tmp/crontab.BtUECb/crontab
-|4,39,1,0,1585230750,"/tmp/crontab.BtUECb/crontab"
--'  1  31  ~/covid-script.sh
-|4,39,1,31,1585230667,"~/covid-script.sh"
--'  1  31  ~/covid-script.sh
-|4,39,1,31,1585230667,"~/covid-script.sh"
--'  1  31  ~/covid-script.sh
-|4,39,1,31,1585230667,"~/covid-script.sh"
--'  1  31  ~/covid-script.sh
-|4,39,1,31,1585230667,"~/covid-script.sh"
--'  1  31  ~/covid-script.sh
-|4,39,1,31,1585230667,"~/covid-script.sh"
--'  1  31  ~/covid-script.sh
-|4,39,1,31,1585230667,"~/covid-script.sh"
--'  1  31  ~/covid-script.sh
-|4,39,1,31,1585230667,"~/covid-script.sh"
--'  1  31  ~/covid-script.sh
-|4,39,1,31,1585230667,"~/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  1  0  ~/script/covid-script.sh
-|4,39,1,0,1585230551,"~/script/covid-script.sh"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
--'  24  9  /tmp/crontab.mtzaLc/crontab
-|4,39,24,9,1585230431,"/tmp/crontab.mtzaLc/crontab"
+-'  89  0  ~/covid-19-data-scraper.py
+|4,39,89,0,1585421305,"~/covid-19-data-scraper.py"
+-'  8  21  ~/covid-19-data-scraper.py
+|4,39,8,21,1585421280,"~/covid-19-data-scraper.py"
+-'  88  20  ~/covid-19-data-scraper.py
+|4,39,88,20,1585421229,"~/covid-19-data-scraper.py"
+-'  88  20  ~/covid-19-data-scraper.py
+|4,39,88,20,1585421225,"~/covid-19-data-scraper.py"
+-'  88  20  ~/covid-19-data-scraper.py
+|4,39,88,20,1585415987,"~/covid-19-data-scraper.py"
+-'  51  14  ~/covid-19-data-scraper.py
+|4,39,51,14,1585415912,"~/covid-19-data-scraper.py"
+-'  51  14  ~/covid-19-data-scraper.py
+|4,39,51,14,1585415912,"~/covid-19-data-scraper.py"
+-'  51  14  ~/covid-19-data-scraper.py
+|4,39,51,14,1585415912,"~/covid-19-data-scraper.py"
+-'  10  0  ~/new.py
+|4,39,10,0,1585415883,"~/new.py"
+-'  10  0  ~/new.py
+|4,39,10,0,1585415883,"~/new.py"
+-'  10  0  ~/new.py
+|4,39,10,0,1585415883,"~/new.py"
+-'  10  0  ~/new.py
+|4,39,10,0,1585415883,"~/new.py"
+-'  10  0  ~/new.py
+|4,39,10,0,1585415883,"~/new.py"
+-'  10  0  ~/new.py
+|4,39,10,0,1585415883,"~/new.py"
+-'  10  0  ~/new.py
+|4,39,10,0,1585415883,"~/new.py"
+-'  10  0  ~/new.py
+|4,39,10,0,1585415883,"~/new.py"
+-'  9  0  ~/new.py
+|4,39,9,0,1585415840,"~/new.py"
+-'  9  0  ~/new.py
+|4,39,9,0,1585415840,"~/new.py"
+-'  9  0  ~/new.py
+|4,39,9,0,1585415840,"~/new.py"
+-'  9  0  ~/new.py
+|4,39,9,0,1585415840,"~/new.py"
+-'  9  0  ~/new.py
+|4,39,9,0,1585415840,"~/new.py"
+-'  9  0  ~/new.py
+|4,39,9,0,1585415840,"~/new.py"
+-'  9  0  ~/new.py
+|4,39,9,0,1585415840,"~/new.py"
+-'  9  0  ~/new.py
+|4,39,9,0,1585415840,"~/new.py"
+-'  7  40  ~/new.py
+|4,39,7,40,1585415760,"~/new.py"
+-'  7  40  ~/new.py
+|4,39,7,40,1585415760,"~/new.py"
+-'  7  40  ~/new.py
+|4,39,7,40,1585415760,"~/new.py"
+-'  7  40  ~/new.py
+|4,39,7,40,1585415760,"~/new.py"
+-'  7  40  ~/new.py
+|4,39,7,40,1585415760,"~/new.py"
+-'  7  40  ~/new.py
+|4,39,7,40,1585415760,"~/new.py"
+-'  7  40  ~/new.py
+|4,39,7,40,1585415760,"~/new.py"
+-'  7  40  ~/new.py
+|4,39,7,40,1585415760,"~/new.py"
+-'  7  40  ~/new.py
+|4,39,7,40,1585415685,"~/new.py"
+-'  7  40  ~/new.py
+|4,39,7,40,1585415685,"~/new.py"
+-'  7  40  ~/new.py
+|4,39,7,40,1585415685,"~/new.py"
+-'  7  40  ~/new.py
+|4,39,7,40,1585415685,"~/new.py"
+-'  7  40  ~/new.py
+|4,39,7,40,1585415685,"~/new.py"
+-'  7  40  ~/new.py
+|4,39,7,40,1585415685,"~/new.py"
+-'  7  40  ~/new.py
+|4,39,7,40,1585415685,"~/new.py"
+-'  7  40  ~/new.py
+|4,39,7,40,1585415685,"~/new.py"
+-'  26  0  ~/new.py
+|4,39,26,0,1585415658,"~/new.py"
+-'  26  0  ~/new.py
+|4,39,26,0,1585415658,"~/new.py"
+-'  26  0  ~/new.py
+|4,39,26,0,1585415658,"~/new.py"
+-'  26  0  ~/new.py
+|4,39,26,0,1585415658,"~/new.py"
+-'  26  0  ~/new.py
+|4,39,26,0,1585415658,"~/new.py"
+-'  26  0  ~/new.py
+|4,39,26,0,1585415658,"~/new.py"
+-'  26  0  ~/new.py
+|4,39,26,0,1585415658,"~/new.py"
+-'  26  0  ~/new.py
+|4,39,26,0,1585415658,"~/new.py"
+-'  26  0  ~/new.py
+|4,39,26,0,1585415658,"~/new.py"
+-'  26  0  ~/new.py
+|4,39,26,0,1585415658,"~/new.py"
+-'  26  0  ~/new.py
+|4,39,26,0,1585415658,"~/new.py"
+-'  26  0  ~/new.py
+|4,39,26,0,1585415658,"~/new.py"
+-'  26  0  ~/new.py
+|4,39,26,0,1585415658,"~/new.py"
+-'  26  0  ~/new.py
+|4,39,26,0,1585415658,"~/new.py"
+-'  26  0  ~/new.py
+|4,39,26,0,1585415658,"~/new.py"
+-'  26  0  ~/new.py
+|4,39,26,0,1585415658,"~/new.py"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  25  ~/demo.xlsx
+|4,39,1,25,1585415581,"~/demo.xlsx"
+-'  1  41  ~/demo.json
+|4,39,1,41,1585415544,"~/demo.json"
+-'  1  41  ~/demo.json
+|4,39,1,41,1585415544,"~/demo.json"
+-'  1  41  ~/demo.json
+|4,39,1,41,1585415544,"~/demo.json"
+-'  1  41  ~/demo.json
+|4,39,1,41,1585415544,"~/demo.json"
+-'  1  41  ~/demo.json
+|4,39,1,41,1585415544,"~/demo.json"
+-'  1  41  ~/demo.json
+|4,39,1,41,1585415544,"~/demo.json"
+-'  1  41  ~/demo.json
+|4,39,1,41,1585415544,"~/demo.json"
+-'  1  41  ~/demo.json
+|4,39,1,41,1585415544,"~/demo.json"
+-'  1  41  ~/demo.json
+|4,39,1,41,1585415544,"~/demo.json"
+-'  1  41  ~/demo.json
+|4,39,1,41,1585415544,"~/demo.json"
+-'  1  41  ~/demo.json
+|4,39,1,41,1585415544,"~/demo.json"
+-'  1  41  ~/demo.json
+|4,39,1,41,1585415544,"~/demo.json"
 
 # History of marks within files (newest to oldest):
+
+> ~/covid-19-data-scraper.py
+	*	1585421291	0
+	"	89	0
+	.	8	0
+	+	56	0
+	+	10	19
+	+	52	0
+	+	51	12
+	+	51	14
+	+	88	20
+	+	8	0
+
+> ~/new.py
+	*	1585415882	0
+	"	10	0
+	.	9	0
+	+	42	0
+	+	7	40
+	+	9	0
+
+> ~/demo.json
+	*	1585415543	0
+	"	1	41
+	^	1	42
+	.	1	41
+	+	1	41
+
+> ~/demo.csv
+	*	1585415070	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/demo.xlsx
+	*	1585413996	0
+	"	1	0
+
+> ~/demo.csv,demo.xlsx,demo.json
+	*	1585413919	0
+	"	1	0
 
 > ~/covid-script.sh
 	*	1585235040	0
@@ -297,14 +343,3 @@
 	+	26	0
 	+	23	19
 	+	24	9
-
-> ~/covid-19-data-scraper.py
-	*	1585229736	0
-	"	51	14
-	^	51	15
-	.	51	14
-	+	56	0
-	+	10	19
-	+	52	0
-	+	51	12
-	+	51	14

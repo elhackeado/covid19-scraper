@@ -89,3 +89,92 @@ git add .
 git commit -m 'commit'
 git push origin master
 date
+ls
+git add .
+git commit -m 'commit'
+git push origin master
+exit
+vi demo.csv,demo.xlsx,demo.json
+rm demo.csv,demo.xlsx,demo.json 
+vi demo.csv
+vi demo.xlsx
+vi demo.json
+vi new.py
+python new.py
+pip3
+pip3 install slackclient
+pip3 install nest_asyncio
+python new.py
+python3 new.py
+vi new.py
+python3 new.py
+clear
+python3 new.py
+ls -a
+ls -l
+chmod +x demo.csv
+ls -l
+chmod +x demo.json demo.xlsx
+ls -l
+python3 new.py
+chmod +x new.py
+python3 new.py
+ls -l
+chmod +w demo.csv demo.json demo.xlsx
+python3 new.py
+ls -l
+sudo python3 new.py
+sudo chmod +w demo.csv demo.json demo.xlsx
+python3 new.py
+clear
+ls -l
+sudo +w demo.csv
+sudo chmod  +w demo.csv
+clear
+ls -l
+vi demo.csv
+clear
+ls -l
+sudo chmod 111 demo.csv
+clear
+ls -l
+chmod 777 demo.csv
+ls -l
+chmod 777 demo.json
+chmod 777 demo.xlsx
+clear
+ls -l
+pyhton3 new.py
+python3 new.py
+clear
+ls -l
+chmod 777 new.py
+clear
+python3 new.py
+clear
+vi new.py
+clear
+python3 new.py
+clear
+vi demo.json
+vi demo.xlsx
+clear
+python3 new.py
+ls l-l
+ls -l
+vi new.py
+python3 new.py
+rm demo.csv demo.json demo.xlsx
+clear
+ls -l
+vi new.py
+vi covid-19-data-scraper.py 
+clear
+date
+whoami
+whoami -i
+whoami --help
+dae
+date
+exit
+vi covid-19-data-scraper.py 
