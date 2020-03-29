@@ -5,7 +5,7 @@ import requests
 from datetime import datetime
 datetime_object = str(datetime.now()).replace(" ","").replace(".","").replace(":","")
 dbname = 'covid-19-'+datetime_object
-client = pymongo.MongoClient("mongodb+srv://admin:admin@cluster0-kwhwi.azure.mongodb.net/test?retryWrites=true&w=majority")
+client = pymongo.MongoClient("")
 
 db = client.covid19
 
